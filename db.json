@@ -12,14 +12,16 @@
       "date": "30-03-2023",
       "type": "Income",
       "category": "Salary",
-      "amount": 90000
+      "amount": 90000,
+      "userId": "akhtarfaizan20@gmail.com"
     },
     {
       "id": 2,
       "date": "30-03-2023",
       "type": "Expense",
       "category": "Shopping",
-      "amount": 20000
+      "amount": 20000,
+      "userId": "akhtarfaizan20@gmail.com"
     }
   ]
 }
