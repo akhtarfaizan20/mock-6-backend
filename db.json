@@ -8,20 +8,52 @@
   ],
   "entries": [
     {
-      "id": 1,
-      "date": "30-03-2023",
-      "type": "Income",
-      "category": "Salary",
-      "amount": 90000,
-      "userId": "akhtarfaizan20@gmail.com"
-    },
-    {
       "id": 2,
-      "date": "30-03-2023",
+      "date": "2023-03-31",
       "type": "Expense",
       "category": "Shopping",
       "amount": 20000,
       "userId": "akhtarfaizan20@gmail.com"
+    },
+    {
+      "type": "Income",
+      "category": "Salary",
+      "amount": 90000,
+      "userId": "akhtarfaizan20@gmail.com",
+      "date": "2023-03-30",
+      "id": 3
+    },
+    {
+      "type": "Income",
+      "category": "Refunds",
+      "amount": 3000,
+      "userId": "akhtarfaizan20@gmail.com",
+      "date": "2023-03-28",
+      "id": 4
+    },
+    {
+      "type": "Income",
+      "category": "Gifts",
+      "amount": 4000,
+      "userId": "akhtarfaizan20@gmail.com",
+      "date": "2023-04-08",
+      "id": 5
+    },
+    {
+      "type": "Expense",
+      "category": "Shopping",
+      "amount": 2000,
+      "userId": "akhtarfaizan20@gmail.com",
+      "date": "2023-03-31",
+      "id": 6
+    },
+    {
+      "type": "Expense",
+      "category": "Vehicle & Transport",
+      "amount": 15000,
+      "userId": "akhtarfaizan20@gmail.com",
+      "date": "2023-03-28",
+      "id": 7
     }
   ]
 }
